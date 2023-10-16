@@ -1,5 +1,4 @@
-### Hi there 👋
-
+https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp
 <!--
 **mrishab/mrishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
