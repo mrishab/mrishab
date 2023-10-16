@@ -1,11 +1,17 @@
 <table>
+<thead>
 <tr>
-<td border="0" style="border:none" width="50%">
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tr>
+<td>
 
 ![Developer Typing](https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp)
 
 </td>
-<td style="border:none">
+<td>
 
 ## About Me
 I'm a Fullstack Software Engineer passionate about solving complex problems and creating efficient solutions. With experience at companies like SAP, Amazon AWS, and currently at Flexport Inc., I love working on platform-level code and am enthusiastic about startups and SaaS.
@@ -15,8 +21,14 @@ I'm a Fullstack Software Engineer passionate about solving complex problems and 
 </table>
 
 <table>
+<thead>
 <tr>
-<td style="border:none">
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tr>
+<td>
 
 ## Languages I'm Proficient In
 - JavaScript
@@ -26,7 +38,7 @@ I'm a Fullstack Software Engineer passionate about solving complex problems and 
 - Go
 
 </td>
-<td style="border:none" width="50%">
+<td>
 
 ![Cat Typing](https://i.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.webp)
 
@@ -35,13 +47,19 @@ I'm a Fullstack Software Engineer passionate about solving complex problems and 
 </table>
 
 <table>
+<thead>
 <tr>
-<td style="border:none">
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tr>
+<td>
 
 ![Earth](https://i.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.webp)
 
 </td>
-<td style="border:none" width="50%">
+<td>
 
 ## Open Source Contributions
 I love creating open-source projects that people love to use.
