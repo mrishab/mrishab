@@ -1,4 +1,10 @@
-<img title="" src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp"/>
+<img width="50%" title="" src="https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp"/>
+# Hello, I'm Rishab! 👋
+
+## 👨‍🚀 About Me
+
+I'm a Fullstack Software Engineer passionate about solving complex problems and creating efficient solutions. With experience at companies like SAP, Amazon AWS, and currently at Flexport Inc., I love working on platform-level code and am enthusiastic about startups and SaaS.
+
 <!--
 **mrishab/mrishab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
