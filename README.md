@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td style="border:none" width="50%">
+<td border="0" style="border:none" width="50%">
 
 ![Developer Typing](https://i.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.webp)
 
