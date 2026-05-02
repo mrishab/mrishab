@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+</picture>
 
 <br/>
 
@@ -52,21 +56,13 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 <div align="center">
 
-<a href="https://github.com/mrishab/google-photos-delete-tool">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=google-photos-delete-tool&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/trishulio/trishul">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul&theme=tokyonight&hide_border=true&border_radius=12&description=Multi-tenant+SaaS+framework+for+enterprise+Java+applications" />
-</a>
-<a href="https://github.com/mrishab/ML-Playground">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=ML-Playground&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/mrishab/anton-apps">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=anton-apps&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/trishulio/trishul-app-template">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul-app-template&theme=tokyonight&hide_border=true&border_radius=12&description=The+official+template+for+bootstrapping+Trishul-based+projects" />
-</a>
+| Project | Description | Stars |
+|:--- |:--- |:---:|
+| [**google-photos-delete-tool**](https://github.com/mrishab/google-photos-delete-tool) | 🚀 Viral tool for bulk deleting Google Photos safely | ![Stars](https://img.shields.io/github/stars/mrishab/google-photos-delete-tool?style=flat-square&color=f97316) |
+| [**trishul**](https://github.com/trishulio/trishul) | 🔱 Multi-tenant SaaS framework for enterprise Java applications | ![Stars](https://img.shields.io/github/stars/trishulio/trishul?style=flat-square&color=0891b2) |
+| [**ML-Playground**](https://github.com/mrishab/ML-Playground) | 🤖 Interactive ML experimentation & playground platform | ![Stars](https://img.shields.io/github/stars/mrishab/ML-Playground?style=flat-square&color=4285F4) |
+| [**anton-apps**](https://github.com/mrishab/anton-apps) | 🏠 Homelab infrastructure & containerized service suite | ![Stars](https://img.shields.io/github/stars/mrishab/anton-apps?style=flat-square&color=4EAA25) |
+| [**trishul-app-template**](https://github.com/trishulio/trishul-app-template) | 🏗️ Official bootstrap template for Trishul-based projects | ![Stars](https://img.shields.io/github/stars/trishulio/trishul-app-template?style=flat-square&color=7B42BC) |
 
 </div>
 
@@ -110,12 +106,24 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrishab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrishab&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mrishab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mrishab&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrishab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mrishab&theme=tokyonight&hide_border=true&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mrishab&theme=default&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrishab&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</picture>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
