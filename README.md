@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator;Homelab+Enthusiast+%7C+1.5K+%E2%AD%90+and+counting" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,19 +28,19 @@
 <td width="33%" valign="top">
 
 ### 🔱 Open Source
-Creator of [**trishul.io**](https://github.com/trishulio) — a multi-tenant SaaS framework published under the `@trishulio` org. Includes a full-stack **brewery management platform** (Brewcraft), reusable app templates, and infrastructure-as-code modules.
+Creator of [**trishul.io**](https://github.com/trishulio) — a multi-tenant enterprise library. Includes reusable app templates and infrastructure-as-code modules.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🏠 Homelab
-Self-hosted infrastructure powered by **Docker + Ansible**. Built **Anton** — a modular ecosystem of containerized services including file server, DDNS, load balancer, reverse proxy, and application hosting.
+Self-hosted infrastructure powered by **Docker + Ansible**. Built **Anton** — a modular ecosystem of containerized services.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 ML & Apps
-Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an interactive machine learning experimentation platform. Exploring semantic communication with **DeepSC** (PyTorch). Building tools that make complex tech accessible.
+Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an interactive ML experimentation platform. Exploring semantic communication with **DeepSC**.
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=google-photos-delete-tool&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/trishulio/trishul">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul&theme=tokyonight&hide_border=true&border_radius=12&description=Multi-tenant+SaaS+framework+for+enterprise+Java+applications" />
 </a>
 <a href="https://github.com/mrishab/ML-Playground">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=ML-Playground&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -64,43 +64,9 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 <a href="https://github.com/mrishab/anton-apps">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=anton-apps&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
-<a href="https://github.com/trishulio/brewcraft-frontend">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=brewcraft-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
 <a href="https://github.com/trishulio/trishul-app-template">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul-app-template&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul-app-template&theme=tokyonight&hide_border=true&border_radius=12&description=The+official+template+for+bootstrapping+Trishul-based+projects" />
 </a>
-
-</div>
-
----
-
-## 🏗️ The Anton Homelab
-
-> _A modular, self-hosted infrastructure ecosystem running on a home server._
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                        ANTON SERVER                             │
-│                     (Ansible-managed)                           │
-├──────────┬──────────┬──────────┬──────────┬─────────────────────┤
-│  📦      │  🌐      │  ⚖️       │  🔄      │  🗄️                 │
-│  Apps    │  DDNS    │  Load    │  Reverse │  File Server        │
-│  Suite   │  Client  │  Balancer│  Proxy   │  (Samba/Docker)     │
-├──────────┴──────────┴──────────┴──────────┴─────────────────────┤
-│                    Docker Compose + Ansible                     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-| Component | Purpose |
-|-----------|---------|
-| **anton-apps** | Dockerized application suite & file server |
-| **anton-server** | Server provisioning & configuration (Ansible) |
-| **anton-ddns** | Dynamic DNS client for home IP updates |
-| **anton-lb** | Load balancer for traffic distribution |
-| **anton-reverse-proxy** | Reverse proxy for routing & SSL termination |
 
 </div>
 
@@ -175,12 +141,12 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Daily-Coding-Problems**](https://github.com/mrishab/Daily-Coding-Problems) | Daily coding challenge solutions ⭐ 9 | Java |
-| [**Whatsapp-Selenium**](https://github.com/mrishab/Whatsapp-Selenium) | Selenium wrapper for WhatsApp Web automation | JavaScript |
+| [**google-photos-delete-tool**](https://github.com/mrishab/google-photos-delete-tool) | Viral hit tool for bulk deleting Google Photos ⭐ 1.5K | JavaScript |
+| [**DeepSC**](https://github.com/mrishab/DeepSC) | Pytorch implementation of Semantic Communication | Python |
 | [**usa-visa-interview**](https://github.com/mrishab/usa-visa-interview) | Visa appointment wait-time checker | Python |
-| [**website-minifier**](https://github.com/mrishab/website-minifier) | HTML/CSS/JS/image minification tool | JavaScript |
-| [**Pinterest-Utils**](https://github.com/mrishab/Pinterest-Utils) | Pinterest interaction utilities | Python |
-| [**wedding-website**](https://github.com/mrishab/wedding-website) | Custom-built wedding website 💍 | JavaScript |
+| [**CLI**](https://github.com/mrishab/CLI) | Minimal CLI argument parser (npm library) | JavaScript |
+| [**Explorer**](https://github.com/mrishab/Explorer) | OS-independent directory operations wrapper | JavaScript |
+| [**Random**](https://github.com/mrishab/Random) | Random number generation utility wrapper | JavaScript |
 | [**putlocker-tv-show-downloader**](https://github.com/mrishab/putlocker-tv-show-downloader) | TV show download automation | JavaScript |
 
 </div>
