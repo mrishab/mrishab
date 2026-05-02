@@ -53,22 +53,22 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 <div align="center">
 
 <a href="https://github.com/mrishab/google-photos-delete-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrishab&repo=google-photos-delete-tool&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=google-photos-delete-tool&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/trishulio/trishul">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulio&repo=trishul&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/mrishab/ML-Playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrishab&repo=ML-Playground&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=ML-Playground&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/mrishab/anton-apps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrishab&repo=anton-apps&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mrishab&repo=anton-apps&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/trishulio/brewcraft-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulio&repo=brewcraft-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=brewcraft-frontend&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/trishulio/trishul-app-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trishulio&repo=trishul-app-template&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=trishulio&repo=trishul-app-template&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -79,7 +79,7 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 > _A modular, self-hosted infrastructure ecosystem running on a home server._
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                        ANTON SERVER                             │
 │                     (Ansible-managed)                           │
@@ -144,12 +144,12 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrishab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrishab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrishab&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrishab&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
