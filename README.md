@@ -2,9 +2,9 @@
 
 <!-- Animated Typing SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rishab+Manocha;Full-Stack+Engineer+%7C+Open+Source+Creator" />
 </picture>
 
 <br/>
@@ -166,7 +166,7 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 ### 🤝 Let's Connect
 
 [![Website](https://img.shields.io/badge/rishabmanocha.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rishabmanocha.com)
-[![Twitter](https://img.shields.io/badge/@ManochaRishab-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ManochaRishab)
+[![Twitter](https://img.shields.io/badge/@ManochaRishab-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ManochaRishab)
 [![GitHub](https://img.shields.io/badge/mrishab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrishab)
 
 <br/>
