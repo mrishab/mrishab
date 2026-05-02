@@ -141,7 +141,7 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**google-photos-delete-tool**](https://github.com/mrishab/google-photos-delete-tool) | Viral hit tool for bulk deleting Google Photos ⭐ 1.5K | JavaScript |
+| [**Daily-Coding-Problems**](https://github.com/mrishab/Daily-Coding-Problems) | Daily coding challenge solutions ⭐ 9 | Java |
 | [**DeepSC**](https://github.com/mrishab/DeepSC) | Pytorch implementation of Semantic Communication | Python |
 | [**usa-visa-interview**](https://github.com/mrishab/usa-visa-interview) | Visa appointment wait-time checker | Python |
 | [**CLI**](https://github.com/mrishab/CLI) | Minimal CLI argument parser (npm library) | JavaScript |
