@@ -84,11 +84,11 @@ Built [**ML Playground**](https://github.com/mrishab/ML-Playground) — an inter
 │                        ANTON SERVER                             │
 │                     (Ansible-managed)                           │
 ├──────────┬──────────┬──────────┬──────────┬─────────────────────┤
-│  📦      │  🌐      │  ⚖️      │  🔄      │  🗄️                │
-│  Apps    │  DDNS    │  Load    │  Reverse │  File Server       │
-│  Suite   │  Client  │  Balancer│  Proxy   │  (Samba/Docker)    │
+│  📦      │  🌐      │  ⚖️       │  🔄      │  🗄️                 │
+│  Apps    │  DDNS    │  Load    │  Reverse │  File Server        │
+│  Suite   │  Client  │  Balancer│  Proxy   │  (Samba/Docker)     │
 ├──────────┴──────────┴──────────┴──────────┴─────────────────────┤
-│                    Docker Compose + Ansible                      │
+│                    Docker Compose + Ansible                     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
