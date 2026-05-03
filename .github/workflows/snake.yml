@@ -25,5 +25,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: Rishab Manocha <rishab.manocha@outlook.com>
+          author: Rishab Manocha <rishab.manocha@outlook.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
